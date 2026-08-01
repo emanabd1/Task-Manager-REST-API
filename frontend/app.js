@@ -173,5 +173,4 @@ modalConfirmBtn.addEventListener('click', async () => {
 
 modalCancelBtn.addEventListener('click', closeModal);
 
-
 fetchTasks();

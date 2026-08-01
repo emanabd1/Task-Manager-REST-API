@@ -10,7 +10,6 @@ const getAllTasks = (priorityFilter) => {
 
 const getTaskById = (id) => tasks.find(t => t.id === id);
 
-
 const addTask = (title, priority, completed) => {
   const newTask = {
     id: tasks.length > 0 ? tasks[tasks.length - 1].id + 1 : 1,
