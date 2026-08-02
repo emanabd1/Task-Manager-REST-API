@@ -21,14 +21,15 @@ A clean, full-stack Task Manager application built with a modular Node.js/Expres
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/emanabd1/Task-Manager-REST-API.git](https://github.com/emanabd1/Task-Manager-REST-API.git)
-cd task-manager
+
+cd task-manager```
 
 2. Run the Backend
 
-Bash
+```Bash
 cd Backend
 npm install
-npm run dev
+npm run dev```
 
 (Server runs on http://localhost:5000)
 
