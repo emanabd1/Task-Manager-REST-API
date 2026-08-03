@@ -13,7 +13,12 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  background-color: var(--bg-color);
+  /* Replace the old color/gradient with the new image texture */
+  background-image: url('bg-texture.png'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: var(--text-main);
   margin: 0;
   padding: 40px 20px;
@@ -22,7 +27,6 @@ body {
   align-items: center;
   min-height: 100vh;
 }
-
 .app-container {
   width: 100%;
   max-width: 600px;
