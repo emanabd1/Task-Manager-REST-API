@@ -16,7 +16,7 @@ A clean, full-stack Task Manager application built with a modular Node.js/Expres
 
 ---
 
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
 ### 1. Clone the Repository
 ```bash
