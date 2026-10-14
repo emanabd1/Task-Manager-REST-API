@@ -1,8 +1,8 @@
-# 🌿 Daily Focus - Task Manager REST API
+# Daily Focus - Task Manager REST API
 
 A clean, full-stack Task Manager application built with a modular Node.js/Express REST API backend and a responsive vanilla JavaScript frontend. Designed with a peaceful earth-tone aesthetic.
 
-## ✨ Features
+## Features
 * **Full CRUD Operations:** Create, read, update (complete/edit), and delete tasks.
 * **Modular MVC Architecture:** Structured separation of concerns with Routes, Controllers, Services, and Data layers.
 * **Interactive UI:** Custom confirmation modals, smooth toast notifications, dynamic priority badges, and checkable task completion toggles.
