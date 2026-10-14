@@ -6,11 +6,11 @@ A clean, full-stack Task Manager application built with a modular Node.js/Expres
 * **Full CRUD Operations:** Create, read, update (complete/edit), and delete tasks.
 * **Modular MVC Architecture:** Structured separation of concerns with Routes, Controllers, Services, and Data layers.
 * **Interactive UI:** Custom confirmation modals, smooth toast notifications, dynamic priority badges, and checkable task completion toggles.
-* **Environment Configuration:** Secure port and environment variable management using `dotenv`.
+* **Environment Configuration:** Secure port and environment variable management using dotenv.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Backend:** Node.js, Express.js, CORS, Dotenv
 * **Frontend:** HTML5, CSS3 (Custom Properties / Variables), JavaScript (ES6+), SVG Icons
 
